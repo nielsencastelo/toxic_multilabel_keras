@@ -19,3 +19,8 @@
  #### Word Embedding
  
  Para criacao do Embedding eu utilizo o glove (https://nlp.stanford.edu/projects/glove/)
+ 
+ 
+ ### Resultados
+ 
+ 
