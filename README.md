@@ -12,6 +12,7 @@
 * Number data points of type identity_hate 1405
 * Observations in one or more class 35098
 * Unclassified observation 124473
+
  A url da base de dados (https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview)
  
  ![](https://github.com/nielsencastelo/toxic_multilabel_keras/blob/main/bar.png)
@@ -22,5 +23,8 @@
  
  
  ### Resultados
- 
+Test Score: 0.05347208632452444
+Test Accuracy: 0.98113257
+![](https://github.com/nielsencastelo/toxic_multilabel_keras/blob/main/model_accuracy.png)
+
  
