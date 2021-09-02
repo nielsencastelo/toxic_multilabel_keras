@@ -14,7 +14,7 @@
 * Unclassified observation 124473
  A url da base de dados (https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview)
  
- ![](https://farm2.staticflickr.com/1950/31788031648_b5cba7bbf0_o.png)
+ ![](https://github.com/nielsencastelo/toxic_multilabel_keras/blob/main/bar.png)
  
  #### Word Embedding
  
