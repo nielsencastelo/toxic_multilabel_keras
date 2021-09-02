@@ -23,8 +23,5 @@
  
  
  ### Resultados
-Test Score: 0.05347208632452444
-Test Accuracy: 0.98113257
 ![](https://github.com/nielsencastelo/toxic_multilabel_keras/blob/main/model_accuracy.png)
-
- 
+![](https://github.com/nielsencastelo/toxic_multilabel_keras/blob/main/model_loss.png)
